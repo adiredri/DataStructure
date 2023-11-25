@@ -3,6 +3,8 @@
 ### About
 
 Welcome to my DataStructure repository. This repository contains tutorials, exercises and solutions in the Data Structures course, in the C# language.
+During the questions it can be seen that there are different types of sorting and searching, such as binary search and quick sorting.
+In addition, there is consideration of the time and place complexity of the methods, with the aim of bringing them to a minimum.
 
 ## Learning Topics
 
