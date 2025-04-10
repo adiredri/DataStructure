@@ -1,6 +1,5 @@
 """
 ************  MATALA 1  ************
-
 """
 
 class UnionFind:
