@@ -1,14 +1,6 @@
 """
 ************  MATALA 1  ************
 
-****  Student 1 : ****
-Name: Adir Edri
-ID: 206991762
-
-****  Student 2 : ****
-Name: Amit Edrei
-ID: 211745385
-
 """
 
 class UnionFind:
